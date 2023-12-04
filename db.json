@@ -1,0 +1,13 @@
+{
+  "cars": [
+    {
+      "make": "bmw",
+      "model": "m3",
+      "year": "2020",
+      "fuel_type": "diesel",
+      "horsepower": "230",
+      "color": "black",
+      "id": 3
+    }
+  ]
+}
